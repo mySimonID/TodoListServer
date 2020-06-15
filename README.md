@@ -17,7 +17,7 @@ The server provides a REST interface to manage the database a follows:
 
 The project depends on the creation of an online Mongodb using https://cloud.mongodb.com.
 Setting up an initial mongodb is free to get you started.
-Once you have the mongodb set-up, then change the file db/DBConfig.js in this repository to your connect string.
+Once you have the mongodb set-up, then change the file db/DBConfig.js in this repository to use your connect string.
 
 ## Using
 
