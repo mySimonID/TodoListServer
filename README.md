@@ -19,7 +19,7 @@ The project depends on the creation of an online Mongodb using https://cloud.mon
 Setting up an initial mongodb is free to get you started.
 Once you have the mongodb set-up, then change the file db/DBConfig.js in this repository to use your connect string.
 
-I have then deployed the project as a Docker instance on my local machine.
+I have then deployed the project as a Docker instance on my local machin using port number 49160. Refere to the 'DockerFile' to see how to configure and start the Docker image.
 
 ## Using
 
