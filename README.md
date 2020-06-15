@@ -24,8 +24,8 @@ Once you have the mongodb set-up, then change the file db/DBConfig.js in this re
 
 
 ## Future enhancements
- [] Implement authentication
- [] Implement auto-synch
+ [ ] Implement authentication
+ [ ] Implement auto-synch
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
