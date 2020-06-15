@@ -26,8 +26,8 @@ I have then deployed the project as a Docker instance on my local machin using p
 The server has been used in four example projects:
 
 * [nodejs](https://github.com/mySimonID/NodeJSToDoList)
-* React
-* React Native
+* [React](https://github.com/mySimonID/ReactToDoList)
+* [React Native](https://github.com/mySimonID/ReactNativeToDoList)
 * Xamarin
 
 Follow the individual links to each project to see how the server has been used.
