@@ -31,7 +31,7 @@ The server has been used in four example projects:
 * React Native
 * Xamarin
 
-Follow the invividual links to each project to see how the serbver has been used.
+Follow the individual links to each project to see how the server has been used.
 
 ## Future enhancements
 - [ ] Implement authentication
