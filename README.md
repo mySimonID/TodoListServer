@@ -2,7 +2,13 @@
 
 ToDoListServer is a nodejs programme to manage a todo list held in an online Mongodb using REST
 
-The server is 
+The server has been created to provide a consistent backend to other UI projects that I have developed:
+
+* nodejs
+* React
+* React Native
+* Xamarin
+
 
 keywords nodejs, express, REST, Mongodb
 
@@ -13,3 +19,7 @@ keywords nodejs, express, REST, Mongodb
 ## Future enhancements
 - Implement authentication
 - Implement auto-synch
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
