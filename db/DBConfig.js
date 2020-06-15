@@ -1,3 +1,3 @@
 module.exports = {	
-  db: 'mongodb+srv://link to your mongodb here'	
+  db: 'mongodb+srv://put the connection string to your mongodb here'	
 };
