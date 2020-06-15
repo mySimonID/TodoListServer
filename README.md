@@ -1,18 +1,9 @@
 # ToDoListServer
 
-keywords nodejs, express, REST, Mongodb
-
-ToDoListServer is written using nodejs to manage a todo list held in an online Mongodb using REST.
+ToDoListServer provides a REST API, written using nodejs to manage a simple todo list held in an online Mongodb.
 The server has been created to provide a consistent database backend to other UI projects that I have developed.
 
-## Database Set-up
-
-The project depends on the create of a online Mongodb using https://cloud.mongodb.com.
-Setting up an initial mongodb is free to get you started.
-Once you have the mongodb set-up, then change the file db/DBConfig.js in this repository to your connect string.
-
-
-## Oveview
+## Overview
 
 The server provides a REST interface to manage the database a follows:
 
@@ -21,6 +12,12 @@ The server provides a REST interface to manage the database a follows:
 *  post('/delete/:id'    - Delete an item from the DB
 *  post('/save/:id'      - Save (update) an existing item to the DB
 *  get('/version')       - return version of this code
+
+## Database Set-up
+
+The project depends on the creation of an online Mongodb using https://cloud.mongodb.com.
+Setting up an initial mongodb is free to get you started.
+Once you have the mongodb set-up, then change the file db/DBConfig.js in this repository to your connect string.
 
 ## Using
 
