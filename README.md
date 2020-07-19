@@ -9,8 +9,8 @@ The server provides a REST interface to manage the database a follows:
 
 *  get('/')              - return all todo items
 *  post('/new')          - add a single todo to the DB
-*  post('/delete/:id'    - Delete an item from the DB
-*  post('/save/:id'      - Save (update) an existing item to the DB
+*  post('/delete/:id')   - Delete an item from the DB
+*  post('/save/:id')     - Save (update) an existing item to the DB
 *  get('/version')       - return version of this code
 
 ## Database Set-up
